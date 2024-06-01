@@ -1,4 +1,4 @@
-## Auto-and-Tele-Operated Bot
+### Auto-and-Tele-Operated Bot
 
 ## Project Overview
 
