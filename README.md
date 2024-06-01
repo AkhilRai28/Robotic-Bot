@@ -1,4 +1,4 @@
-# Auto-and-Tele-Operated Bot
+Auto-and-Tele-Operated Bot
 
 ## Project Overview
 
@@ -105,4 +105,7 @@ This project involves the development of a teleoperated and autonomous robot usi
 
 ## Bibliography
 
-- **References**: Listed all materials, guides, and resources used throughout the project to acknowledge contributions and for future reference.
+- [ROS Official Website](https://www.ros.org/)
+- [What is ROS? - Ubuntu Robotics](https://ubuntu.com/robotics/what-is-ros)
+- [Dual Boot Guide - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-dual-boot-any-linux-distribution-with-windows/)
+- [ROS Commands Summary - Packt](https://subscription.packtpub.com/book/iot-and-hardware/9781788479592/1/ch01lvl1sec15/ros-commands-summary)
